@@ -1,5 +1,9 @@
 const localQuotes = [
   {
+    text: 'Jah.',
+    author: 'Majra Grabić',
+  },
+  {
     text: 'Genius is one percent inspiration and ninety-nine percent perspiration.',
     author: 'Thomas Edison',
   },
